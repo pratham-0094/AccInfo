@@ -1,0 +1,92 @@
+{
+  "data": {
+    "Chhattisgarh": [
+      {
+        "id": "raipur",
+        "latitude": 21.2514,
+        "longitude": 81.6296,
+        "image": "./sample.jpg",
+        "city": "raipur",
+        "location": "central Bank",
+        "type": "Robbery",
+        "country": "IN",
+        "time": "2020-03-27T08:16:02:8",
+        "description": "Robbers having gun steal 1L from bank. After chaseing, police unable to catch them and they escape"
+      },
+      {
+        "id": "korba",
+        "latitude": 20.15,
+        "longitude": 81.32,
+        "image": "./park.jpg",
+        "city": "korba",
+        "location": "grand park",
+        "type": "Accident",
+        "country": "IN",
+        "time": "2020-03-27T08:16:02:8",
+        "description": "Trees caught on fire due to elctric failure"
+      },
+      {
+        "id": "bilaspur",
+        "latitude": 21.05,
+        "longitude": 82.13,
+        "image": "./robber.jpg",
+        "city": "bilaspur",
+        "location": "station",
+        "type": "Robbery",
+        "country": "IN",
+        "time": "2020-03-27T08:16:02:8",
+        "description": "Two robbers steal 20000 Rs"
+      },
+      {
+        "id": "rajim",
+        "latitude": 20.59,
+        "longitude": 81.55,
+        "image": "./car.jpg",
+        "city": "rajim",
+        "location": "national highway",
+        "type": "Accident",
+        "country": "IN",
+        "time": "2020-03-27T08:16:02:8",
+        "description": "Two car struck on main road "
+      }
+    ],
+    "Odissa": [
+      {
+        "id": "abc",
+        "latitude": 19.07609,
+        "longitude": 72.877426,
+        "image": "./robber.jpg",
+        "city": "bilaspur",
+        "location": "station",
+        "type": "Robbery",
+        "country": "IN",
+        "time": "2020-03-27T08:16:02:8",
+        "description": "Two robbers steal 20000 Rs"
+      },
+      {
+        "id": "bilaspur",
+        "latitude": 21.05,
+        "longitude": 82.13,
+        "image": "./robber.jpg",
+        "city": "bilaspur",
+        "location": "station",
+        "type": "Robbery",
+        "country": "IN",
+        "time": "2020-03-27T08:16:02:8",
+        "description": "Two robbers steal 20000 Rs"
+      },
+      {
+        "id": "rajim",
+        "latitude": 20.59,
+        "longitude": 81.55,
+        "image": "./car.jpg",
+        "city": "rajim",
+        "location": "national highway",
+        "type": "Accident",
+        "country": "IN",
+        "time": "2020-03-27T08:16:02:8",
+        "description": "Two car struck on main road "
+      }
+    ]
+  }
+}
