@@ -71,7 +71,7 @@ function updateMap(position) {
           // console.log(country); //all city name
           // console.log(index); //key name
           // console.log(Object.keys(rsp.data)); //all key name inside data
-          if (index == "Odissa") {
+          if (index == address) {
             for (city in country) {
               longitude = country[city].longitude;
               latitude = country[city].latitude;
